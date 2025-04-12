@@ -2,6 +2,7 @@
   "name": "homework-73",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://lika-ruby.github.io/homework-73/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.html",
